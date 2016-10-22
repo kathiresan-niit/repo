@@ -1,3 +1,6 @@
+/*
+this is a sample demo for branching
+*/
 package com.techsoft.info.controller;
 
 import org.springframework.stereotype.Controller;
